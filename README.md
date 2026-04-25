@@ -1,5 +1,5 @@
 # github-learning-lab
-
+# Diego Angulo
 # GitHub Learning Lab
 
 Este repositorio fue creado para practicar GitHub, control de versiones y GitHub Actions.
